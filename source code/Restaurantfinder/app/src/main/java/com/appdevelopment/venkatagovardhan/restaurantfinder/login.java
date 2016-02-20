@@ -52,7 +52,7 @@ public class login extends AppCompatActivity {
         String pword = helper.searchPass(userName);
         if(password.equals(pword))
         {
-            Intent i = new Intent(login.this, Display.class);
+            Intent i = new Intent(login.this, MapsActivity.class);
             i.putExtra("Username",userName);
             startActivity(i);
         }
