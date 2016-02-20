@@ -63,6 +63,8 @@ public class signup extends AppCompatActivity{
 
 
                 helper.insertContact(c);
+                Intent redirect = new Intent(signup.this, MapsActivity.class);
+                startActivity(redirect);
             }
 
         }
