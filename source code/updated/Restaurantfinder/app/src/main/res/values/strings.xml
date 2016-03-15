@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Restaurant finder</string>
+    <string name="action_settings">1</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_places_maps">Map</string>
+    <string name="title_activity_places_maps2">Map</string>
+</resources>
