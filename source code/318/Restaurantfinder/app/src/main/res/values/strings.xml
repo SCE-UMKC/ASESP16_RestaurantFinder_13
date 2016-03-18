@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Restaurant finder</string>
+    <string name="action_settings">1</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_places_maps">Map</string>
+    <string name="title_activity_places_maps2">Map</string>
+    <string name="food_name">1</string>
+    <string name="food_name_hint">1</string>
+    <string name="food_portion">1</string>
+    <string name="food_fiber">fiber</string>
+    <string name="food_fat">fat</string>
+    <string name="food_carbs_hint">carbohydrates</string>
+    <string name="food_carbs">Carbohydrates</string>
+    <string name="food_protein_hint">Protien</string>
+    <string name="food_protein">protien</string>
+    <string name="food_macronutrients">Macro nutrients</string>
+    <string name="food_portion_hint">food portion</string>
+</resources>
