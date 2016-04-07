@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">dietplanner</string>
+    <string name="action_settings">Settings</string>
+    <string name="height">Height , cm</string>
+    <string name="weight">Weight , kg</string>
+    <string name="sex">Male ,Female</string>
+    <string name="btn_cal">Counted</string>
+    <string name="btn_share">Share Results</string>
+    <string name="result">Your body mass index：</string>
+    <string name="share_title">Body mass report</string>
+    <string name="share_result">I just use dietplanner：</string>
+    <string name="share_suggest">It is recommended that given：</string>
+    <string name="share_invite">You have to try it！</string>
+    <string name="exit">drop out</string>
+    <string name="about">on</string>
+    <string name="about_msg">	</string>
+</resources>
