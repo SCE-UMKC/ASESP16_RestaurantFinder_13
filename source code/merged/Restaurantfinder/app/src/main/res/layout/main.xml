@@ -7,35 +7,35 @@
     <EditText
         android:id="@+id/height"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="68dp"
         android:gravity="center_vertical"
         android:hint="@string/height"
         android:inputType="numberDecimal"
-        android:textColorHint="#09f328"
-        android:textColor="#0afb22" />
+        android:textColorHint="#D3D3D3"
+        android:textColor="#000000" />
 
 
     <EditText
         android:id="@+id/weight"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="69dp"
         android:gravity="center_vertical"
         android:hint="@string/weight"
         android:inputType="numberDecimal"
-        android:textColor="#2af40f"
-        android:textColorHint="#1af70e" />
+        android:textColor="#000000"
+        android:textColorHint="#D3D3D3" />
 
 
 
     <EditText
         android:id="@+id/sex"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="71dp"
         android:gravity="center_vertical"
         android:hint="@string/sex"
         android:inputType="text"
-        android:textColor="#2af40f"
-        android:textColorHint="#42f216" />
+        android:textColor="#000000"
+        android:textColorHint="#D3D3D3" />
 
     <TableRow>
         <Button
@@ -57,14 +57,138 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text=""
-        android:textColor="#FFFF00" />
+        android:textColor="#000000" />
 
     <TextView
         android:id="@+id/suggest"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text=""
-        android:textColor="#FFFF00" />
+        android:textColor="#000000" />
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
 
     <TableRow
         android:layout_width="match_parent"
@@ -87,7 +211,7 @@
             android:layout_height="wrap_content"
             android:text="Calorie"
             android:id="@+id/button2"
-            android:layout_column="1"
+            android:layout_column="4"
             android:onClick="calorie" />
     </TableRow>
 

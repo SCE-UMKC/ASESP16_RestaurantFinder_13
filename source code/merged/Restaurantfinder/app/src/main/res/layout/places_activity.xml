@@ -30,8 +30,6 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:id="@+id/textViewRhymes"
         android:layout_below="@+id/button_new"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
 
         android:gravity="left"
         android:background="@drawable/place"

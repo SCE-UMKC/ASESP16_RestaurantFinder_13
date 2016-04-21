@@ -5,7 +5,8 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:background="@drawable/background">
 
         <!-- Food Name. -->
         <LinearLayout
@@ -117,7 +118,7 @@
                     android:textSize="16sp"
                     android:fontFamily="sans-serif"
                     android:gravity="start"
-                    android:textColor="@color/colorPrimary"/>
+                    android:textColor="@color/colorAccent"/>
 
                 <EditText android:id="@+id/food_protein"
                     android:layout_width="0dp"
@@ -151,7 +152,7 @@
                     android:textSize="16sp"
                     android:fontFamily="sans-serif"
                     android:gravity="start"
-                    android:textColor="@color/colorPrimary"/>
+                    android:textColor="@color/colorAccent"/>
 
                 <EditText android:id="@+id/food_carbos"
                     android:layout_width="0dp"
@@ -185,7 +186,7 @@
                     android:textSize="16sp"
                     android:fontFamily="sans-serif"
                     android:gravity="start"
-                    android:textColor="@color/colorPrimary"/>
+                    android:textColor="@color/colorAccent"/>
 
                 <EditText android:id="@+id/food_fat"
                     android:layout_width="0dp"
@@ -219,7 +220,7 @@
                     android:textSize="16sp"
                     android:fontFamily="sans-serif"
                     android:gravity="start"
-                    android:textColor="@color/colorPrimary"/>
+                    android:textColor="@color/colorAccent"/>
 
                 <EditText android:id="@+id/food_fiber"
                     android:layout_width="0dp"
