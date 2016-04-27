@@ -37,7 +37,7 @@ public class home extends AppCompatActivity {
 
     }
     public void dietplan(View v){
-        Intent redirect = new Intent(home.this, diet.class);
+        Intent redirect = new Intent(home.this, BMI.class);
         startActivity(redirect);
 
 
