@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Venkata Govardhan\\Desktop\\Restaurant-Finder-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_search.xml",
+        "source": "C:\\Users\\Venkata Govardhan\\Desktop\\Restaurant-Finder-master\\app\\src\\main\\res\\menu\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Venkata Govardhan\\Desktop\\Restaurant-Finder-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_login.xml",
+        "source": "C:\\Users\\Venkata Govardhan\\Desktop\\Restaurant-Finder-master\\app\\src\\main\\res\\menu\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Venkata Govardhan\\Desktop\\Restaurant-Finder-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_tab_host.xml",
+        "source": "C:\\Users\\Venkata Govardhan\\Desktop\\Restaurant-Finder-master\\app\\src\\main\\res\\menu\\activity_tab_host.xml"
+    },
+    {
+        "merged": "C:\\Users\\Venkata Govardhan\\Desktop\\Restaurant-Finder-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_list.xml",
+        "source": "C:\\Users\\Venkata Govardhan\\Desktop\\Restaurant-Finder-master\\app\\src\\main\\res\\menu\\activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Venkata Govardhan\\Desktop\\Restaurant-Finder-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_map.xml",
+        "source": "C:\\Users\\Venkata Govardhan\\Desktop\\Restaurant-Finder-master\\app\\src\\main\\res\\menu\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Venkata Govardhan\\Desktop\\Restaurant-Finder-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_detail.xml",
+        "source": "C:\\Users\\Venkata Govardhan\\Desktop\\Restaurant-Finder-master\\app\\src\\main\\res\\menu\\activity_detail.xml"
+    }
+]
